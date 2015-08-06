@@ -1,0 +1,1 @@
+E:\Repositories\pre-commit.cmd %1 %2
